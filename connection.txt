@@ -1,0 +1,1 @@
+Data Source=GHANJY\ABOUDI;Initial Catalog=Hospital;Integrated Security=True
